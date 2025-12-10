@@ -32,6 +32,5 @@ namespace FarmManager2.ViewModels
             }
 
         }
-
     }
 }
