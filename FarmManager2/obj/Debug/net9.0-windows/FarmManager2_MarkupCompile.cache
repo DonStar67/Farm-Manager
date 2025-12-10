@@ -1,5 +1,5 @@
 ﻿FarmManager2
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Users\Star\Desktop\projec\FarmManager2\App.xaml
 3-507986765
 11878622657
-131855283497
+11-823406685
 2161163030568
 Resources\Themes\DefaultTheme.xaml;View\LoginWindow.xaml;View\Style.xaml;
 
-False
+True
 
